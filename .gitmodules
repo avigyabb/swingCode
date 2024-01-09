@@ -1,0 +1,3 @@
+[submodule "djangoProject/reactapp"]
+	path = djangoProject/reactapp
+	url = https://github.com/skadaba1/demo
