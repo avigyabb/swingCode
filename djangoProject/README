@@ -1,0 +1,18 @@
+- have to npm run build to see changes
+- delete node modeles
+- npm install
+- npm run build
+
+In djangoProject
+
+- python3 manage.py runserver
+
+ERROR: import not found... pylance
+
+- if you're in a conda environment do conda install
+- if in venv do pip install
+- change python interpreter
+
+ERROR:
+
+- delete the build folder and run npm run build
